@@ -29,7 +29,6 @@ A organização do projeto segue a seguinte estrutura de diretórios, garantindo
 │   └── 02_modeling.ipynb
 ├── src/
 │   └── eda_utils.py
-├── .env
 ├── .env_exemplo
 ├── .gitignore
 ├── README.md
